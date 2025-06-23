@@ -1,2 +1,2 @@
-# webpage2
+# Web page 
 Created a replica of fully responsive website
